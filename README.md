@@ -92,7 +92,3 @@
   <!-- 푸터 -->                                                                   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8
   e44ad&height=120&section=footer" width="100%" />
-    
-
-    
-    
