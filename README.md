@@ -1,5 +1,9 @@
 <div align="center">
 
+<!-- 픽셀 스타일 헤더 -->
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=moxopills&theme=rainbow" />
+
+<br/>
 
 <!-- 타이핑 효과 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+World!;I'm+Backend+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
@@ -75,8 +79,8 @@
 
 <br/><br/>
 
-<!-- 레트로 방문자 카운터 -->
-<img src="https://profile-counter.glitch.me/moxopills/count.svg" />
+<!-- 방문자 카운터 -->
+<img src="https://komarev.com/ghpvc/?username=moxopills&style=for-the-badge&color=00FF00" />
 
 <br/>
 
