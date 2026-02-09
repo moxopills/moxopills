@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- 픽셀 스타일 헤더 -->
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=moxopills&theme=rainbow" />
-
-<br/>
 
 <!-- 타이핑 효과 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+World!;I'm+Backend+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
@@ -52,12 +48,16 @@
 <img src="https://img.shields.io/badge/📚_OZ_Externship-FF6B6B?style=for-the-badge"/>
 </a>
 <br/>
+<sub>Recruitment, S3, StudyNote</sub>
+<br/>
 <sub>백엔드 1팀 팀장</sub>
 </td>
 <td align="center">
 <a href="https://github.com/OZ-MainProject-Team4-Backend/Team4-Last-Backend">
 <img src="https://img.shields.io/badge/🎯_OZ_Main-9B59B6?style=for-the-badge"/>
 </a>
+<br/>
+<sub>유저, 배포, 플로우</sub>
 <br/>
 <sub>백엔드 파트 팀장</sub>
 </td>
